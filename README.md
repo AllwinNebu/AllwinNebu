@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allwinnebu" alt="allwinnebu" /></a> </p>
 
-- 🔭 I’m currently working on [A stegnography application using Modified AES as encryption](https://github.com/AllwinNebu/Stegnography-Application)
+- 🔭 I’m currently working on [PCQ and dual device  based payment gateway for bank transcation of huge amount  ]
 
 - 🌱 I’m currently learning **Cloud Firewalls,EDR,SIEM/SOAR**
 
